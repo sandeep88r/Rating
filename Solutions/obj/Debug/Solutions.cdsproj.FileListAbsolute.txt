@@ -1,2 +1,0 @@
-D:\PCF\Rating\Solutions\obj\Debug\Solutions.cdsproj.AssemblyReference.cache
-D:\PCF\Rating\Solutions\obj\Debug\Solutions.cdsproj.CoreCompileInputs.cache
